@@ -31,6 +31,11 @@ Ngrams and word frequency for each coin:
 
 Finally, generate word clouds for each coin to summarize the news for each coin.
 
+![1](https://user-images.githubusercontent.com/70820754/102837801-db2b7080-43b9-11eb-8f6f-d3c9ec5eb324.png)
+
+![2](https://user-images.githubusercontent.com/70820754/102837804-de266100-43b9-11eb-9c77-862f97d2e951.png)
+
+
 ## Files
 
 [Crypto Sentiment Notebook](https://github.com/kary2003/12_Tales_From_The_Crypto/blob/main/crypto_sentiment.ipynb)
