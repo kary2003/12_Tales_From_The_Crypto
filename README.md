@@ -1,4 +1,4 @@
-# 12_Tales_From_The_Crypto
+# Tales From The Crypto
 
 ![image](https://user-images.githubusercontent.com/70820754/101661830-fb485080-3a05-11eb-8783-b8f07914aea5.png)
 
